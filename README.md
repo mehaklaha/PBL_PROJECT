@@ -1,1 +1,1 @@
-https://skipthefires.netlify.app/
+https://infernoforecastpro.netlify.app/
